@@ -1,0 +1,15 @@
+{
+  "name": "pimgen",
+  "version": "0.0.1",
+  "description": "Image Generator Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "generator"
+  ],
+  "author": "Pedro Vanzo",
+  "license": "ISC"
+}
